@@ -10,7 +10,7 @@ namespace AnimeGirlCalculator {
 	using namespace System::Drawing;
 
 	/// <summary>
-	/// MainForm için özet
+	/// MainForm iÃ§in Ã¶zet
 	/// </summary>
 	public ref class MainForm : public System::Windows::Forms::Form
 	{
@@ -19,13 +19,13 @@ namespace AnimeGirlCalculator {
 		{
 			InitializeComponent();
 			//
-			//TODO: Oluşturucu kodunu buraya ekle
+			//TODO: OluÅŸturucu kodunu buraya ekle
 			//
 		}
 
 	protected:
 		/// <summary>
-		///Kullanılan tüm kaynakları temizleyin.
+		///KullanÄ±lan tÃ¼m kaynaklarÄ± temizleyin.
 		/// </summary>
 		~MainForm()
 		{
@@ -66,14 +66,14 @@ namespace AnimeGirlCalculator {
 
 	private:
 		/// <summary>
-		///Gerekli tasarımcı değişkeni.
+		///Gerekli tasarÄ±mcÄ± deÄŸiÅŸkeni.
 		/// </summary>
 		System::ComponentModel::Container ^components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Tasarımcı desteği için gerekli metot - bu metodun 
-		///içeriğini kod düzenleyici ile değiştirmeyin.
+		/// TasarÄ±mcÄ± desteÄŸi iÃ§in gerekli metot - bu metodun 
+		///iÃ§eriÄŸini kod dÃ¼zenleyici ile deÄŸiÅŸtirmeyin.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -475,3 +475,4 @@ private: System::Void MainForm_Load(System::Object^ sender, System::EventArgs^ e
 }
 };
 }
+
