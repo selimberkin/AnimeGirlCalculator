@@ -456,7 +456,7 @@ namespace AnimeGirlCalculator {
 			this->Controls->Add(this->button3);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->textBox1);
-			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedToolWindow;
 			this->Margin = System::Windows::Forms::Padding(2);
 			this->Name = L"MainForm";
 			this->Text = L"Anime Girl Calculator";
